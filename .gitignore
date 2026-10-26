@@ -1,4 +1,4 @@
 # Dados (Kaggle: não versionar; licença e tamanho)
-data/*.csv
-data/*.xlsx
+data/*
 !data/README.md
+!data/.gitkeep
