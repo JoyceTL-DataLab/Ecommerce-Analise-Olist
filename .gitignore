@@ -2,3 +2,18 @@
 data/*
 !data/README.md
 !data/.gitkeep
+
+# Ambientes virtuais
+.venv/
+venv/
+teste/
+
+# Jupyter e Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Segredos e arquivos locais
+.env
+.DS_Store
+Thumbs.db

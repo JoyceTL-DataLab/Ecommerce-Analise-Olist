@@ -1,0 +1,12 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+scipy
+statsmodels
+seaborn
+matplotlib
+plotly
+requests
+pyarrow
+jupyter
