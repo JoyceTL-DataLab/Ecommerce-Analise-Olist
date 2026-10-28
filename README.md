@@ -6,7 +6,8 @@ Projeto de análise de dados ponta a ponta sobre o e-commerce brasileiro **Olist
 > **Resposta curta:** o atraso na entrega. Pedidos atrasados têm nota média de 2,27 contra 4,29 dos pedidos no prazo, e a chance de nota baixa (1–2) é aproximadamente 16 vezes maior, mesmo controlando pela região.
 
 ![Dashboard](docs/dashboard_visao_executiva.png)
-
+---
+![Dashboard](docs/dashboard_2_atrasos_e_notas.png)
 ---
 
 ## Principais resultados
@@ -95,7 +96,7 @@ Quatro páginas, em `docs/olist-projeto-BI.pdf`:
 3. **Recompra e RFM:** clientes e receita por segmento, com recomendações de ação.
 4. **Vendedores:** concentração de receita, volume x nota e ranking de vendedores com maior atraso.
 
-Mapas interativos (abrir no navegador): [`docs/mapa_regioes.html`](docs/mapa_regioes.html) e [`docs/mapa_estados.html`](docs/mapa_estados.html).
+Mapas interativos (verifique a parte final do notebook 03_analise): [`docs/mapa_regioes.html`](docs/mapa_regioes.html) e [`docs/mapa_estados.html`](docs/mapa_estados.html).
 
 ## Estrutura do repositório
 
