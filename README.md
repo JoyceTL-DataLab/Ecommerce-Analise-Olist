@@ -96,7 +96,7 @@ Quatro páginas, em `docs/olist-projeto-BI.pdf`:
 3. **Recompra e RFM:** clientes e receita por segmento, com recomendações de ação.
 4. **Vendedores:** concentração de receita, volume x nota e ranking de vendedores com maior atraso.
 
-Mapas interativos (verifique a parte final do notebook 03_analise): [`docs/mapa_regioes.html`](docs/mapa_regioes.html) e [`docs/mapa_estados.html`](docs/mapa_estados.html).
+Mapas interativos(notebook 03_analises): [Atraso por região](https://joycetl-datalab.github.io/Ecommerce-Analise-Olist/docs/mapa_regioes.html) · [Atraso por estado](https://joycetl-datalab.github.io/Ecommerce-Analise-Olist/docs/mapa_estados.html)
 
 ## Estrutura do repositório
 
