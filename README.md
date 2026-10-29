@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange)
+![Visualization](https://img.shields.io/badge/Visualization-Seaborn-lightgrey)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Análise de dados Olist: atrasos, satisfação e comportamento de clientes
 
 Projeto de análise de dados ponta a ponta sobre o e-commerce brasileiro **Olist** (2016–2018): desde qualidade dos dados ao dashboard executivo em Power BI, passando por ETL em Python, modelagem dimensional em PostgreSQL, estatística descritica, inferencial e geográfica com mapas interativos.
