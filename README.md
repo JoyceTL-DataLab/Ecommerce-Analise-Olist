@@ -1,8 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange)
-![Visualization](https://img.shields.io/badge/Visualization-Seaborn-lightgrey)
-![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 # Análise de dados Olist: atrasos, satisfação e comportamento de clientes
 
@@ -159,6 +155,24 @@ olist-analytics/
 ## Stack
 
 Python (pandas, SQLAlchemy, SciPy, statsmodels, seaborn, matplotlib, Plotly) · PostgreSQL · SQL (CTEs, window functions) · Power BI · Jupyter
+----
+
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-psycopg2--binary-4169E1)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-8CAAE6)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical_Models-4051B5)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-76B900)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-3F4F75)
+![Requests](https://img.shields.io/badge/Requests-HTTP_Library-2CA5E0)
+![PyArrow](https://img.shields.io/badge/PyArrow-Columnar_Data-50A1A5)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+----
 
 ## Dados e licença
 
