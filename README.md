@@ -155,7 +155,7 @@ olist-analytics/
 ## Stack
 
 Python (pandas, SQLAlchemy, SciPy, statsmodels, seaborn, matplotlib, Plotly) · PostgreSQL · SQL (CTEs, window functions) · Power BI · Jupyter
-----
+
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-orange)
